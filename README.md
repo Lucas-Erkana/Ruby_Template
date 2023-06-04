@@ -127,9 +127,9 @@ To run tests, run the following command: **rspec**.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Remove a selected book]**
-- [ ] **[Remove a selected music album]**
-- [ ] **[Remove a selected game]**
+- [ ] **Remove a selected book**
+- [ ] **Remove a selected music album**
+- [ ] **Remove a selected game**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
