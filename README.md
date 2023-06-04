@@ -30,10 +30,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 [Versatile-Media-Ruby] <a name="about-project"></a>
-
-**[Versatile Media]**
+# 📖 Versatile-Media-Rub <a id="about-project"></a>
 
 - Ruby app for storing favourite Books, Music Albums or Games.
 
