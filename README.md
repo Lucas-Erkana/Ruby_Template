@@ -1,39 +1,68 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <h1><b>Versatile-Media</b></h1>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Decode a Morse code message ](#-decode-a-morse-code-message-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode a Morse code message <a name="about-project"></a>
+# 📖 [Versatile-Media-Ruby] <a name="about-project"></a>
 
-**Decode a Morse code message** is an application that can be used to decode sentences weitten in morse to
-words in the alphabet.
+**[Versatile Media]**
+
+- Ruby app for storing favourite Books, Music Albums or Games.
+
+- You can also add a new book, music album or game.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+- Ruby
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Server</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://guides.rubyonrails.org/getting_started.html">Ruby</a></li>
+    <li>Ruby</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Test</summary>
+  <ul>
+    <li>RSPEC</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>PostgreSQL</li>
   </ul>
 </details>
 
@@ -41,45 +70,44 @@ words in the alphabet.
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode morse code**
+- **[Add Book]** - Add your favourite book.
+- **[Add Music Album]** - Add your favourite music album.
+- **[Add Game]** - Add your favourite game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps:
-- Create a local directory where you can clone the project
-- Clone the project to your directory by running
-  - `https://github.com/Lucash2022/Morse_code_message.git`
-- Run the code with ruby
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-- Git and GitHub
-- A code editor
-- Ruby
+In order to run this project you need: any web-browser.
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-- Create a local directory where you can clone the project
-- Clone the project to your directory by running
-  - `https://github.com/Lucash2022/Morse_code_message.git`
+Clone this [repository](https://github.com/Lucash2022/Versatile-Media-Ruby) to your desired folder.
 
 ### Install
 
-Install this project with:
+This project does not require installation.
 
-- Ruby
+### Usage
 
+**To run the project follow the following instruction:-**
+
+- Clone this [repository](https://github.com/Lcuash2022/Versatile-Media-Ruby) in your local machine with correct branch.
+- Run **ruby main.rb**
+
+### Run tests
+
+To run tests, run the following command: **rspec**.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -89,13 +117,22 @@ Install this project with:
 - Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
 
+
+👤 **Partner 1**
+
+👤 **Partner 2**
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Encode text to morse code**
+- [ ] **[Remove a selected book]**
+- [ ] **[Remove a selected music album]**
+- [ ] **[Remove a selected game]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,14 +150,25 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project kindly leave a ⭐
+If you like this project give a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the great resources shared.
+I would like to thank Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **[Can I use this project?]**
+
+  - [It's MIT license, feel free to use as you like.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
