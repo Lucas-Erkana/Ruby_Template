@@ -67,9 +67,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add Book]** - Add your favourite book.
-- **[Add Music Album]** - Add your favourite music album.
-- **[Add Game]** - Add your favourite game.
+- **Add Book** - Add your favourite book.
+- **Add a Music Album** - Add your favourite music album.
+- **Add a Game** - Add your favourite game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
